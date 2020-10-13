@@ -1,5 +1,5 @@
 some text
 some more text
 line 1
-line 2
+line 2: this is line 2
 line 3
