@@ -1,2 +1,4 @@
 some text
 some more text
+line 1
+line 2
